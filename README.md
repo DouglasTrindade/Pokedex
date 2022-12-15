@@ -3,4 +3,4 @@
 
 # Link para ver no Vercel: https://pokedex-six-wheat.vercel.app/
 
-<img src="./pokedex/images/pokedexfoto.png" />
+<img src="pokedex/images/pokedexfoto.png" />
