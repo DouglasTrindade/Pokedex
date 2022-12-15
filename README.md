@@ -2,3 +2,5 @@
 # Utilizando os dados da API - PokéAPI
 
 # Link para ver no Vercel: https://pokedex-six-wheat.vercel.app/
+
+<img src="./pokedex/images/pokedexfoto.png" />
